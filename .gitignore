@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+venv/
+virtualenv
+*.pyc
+*.sqlite3
+*~
